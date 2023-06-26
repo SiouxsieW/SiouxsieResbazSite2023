@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Dr Siouxsie Wiles MNZM
+title: Siouxsie Wiles MNZM
 
 # Full name (for SEO)
 first_name: Siouxsie
@@ -22,7 +22,7 @@ organizations:
     url: https://www.auckland.ac.nz/en.html
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Award-winning microbiologist and science communicator passionate about infectious diseases, bioluminescence, and LEGO. 
 
 # Interests to show in About widget
 interests:
@@ -39,9 +39,7 @@ education:
     - course: BSc (Hons) in Medical Microbiology
       institution: University of Edinburgh
       year: 1997
-    - course: 
-      institution: 
-      year: 
+
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
